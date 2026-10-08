@@ -4,7 +4,7 @@ Sistema web integral de gestión operativa y contratos inmobiliarios desarrollad
 
 ---
 
-## 🏛️ Arquitectura y Tecnologías
+##  Arquitectura y Tecnologías
 - **Patrón Arquitectónico:** MVC (Modelo - Vista - Controlador) estricto.
 - **Backend:** PHP 8.2+ con Composer (Autoloading PSR-4).
 - **Frontend:** HTML5 semántico, Bootstrap 5.3.3 (CSS & JS), Bootstrap Icons y JavaScript Vanilla para llamadas asíncronas (Fetch/AJAX) y reactividad.
@@ -13,7 +13,7 @@ Sistema web integral de gestión operativa y contratos inmobiliarios desarrollad
 
 ---
 
-## 🚀 Inicio Rápido (Ejecución Inmediata)
+##  Inicio Rápido (Ejecución Inmediata)
 
 Desde la terminal en el directorio del proyecto:
 
@@ -29,7 +29,7 @@ Luego abre en tu navegador: **`http://localhost:8000`**
 
 ---
 
-## 👥 Credenciales de Prueba Preconfiguradas
+##  Credenciales de Prueba Preconfiguradas
 
 | Perfil / Empleado | Rol del Sistema | Especialidad Granular | Correo de Acceso | Contraseña |
 | :--- | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ Luego abre en tu navegador: **`http://localhost:8000`**
 
 ---
 
-## 🗂️ Estructura del Proyecto (MVC)
+## Estructura del Proyecto (MVC)
 
 ```text
 miami-agency-ops/
@@ -105,7 +105,7 @@ miami-agency-ops/
 
 ---
 
-## 🔄 Flujos de Trabajo Implementados
+##  Flujos de Trabajo Implementados
 
 ### 1. Flujo de Contratos Dinámicos con Realtors
 1. **Redacción:** El empleado con especialidad `CREADOR_CONTRATOS` accede a `/contracts/create`.
