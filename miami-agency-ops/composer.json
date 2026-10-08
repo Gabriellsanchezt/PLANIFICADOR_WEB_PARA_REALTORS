@@ -1,0 +1,14 @@
+{
+    "name": "miami-agency/ops-system",
+    "description": "Sistema de Gestión de Operaciones, Flujo Audiovisual y Contratos con Realtors para Agencia en Miami",
+    "type": "project",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Config\\": "config/"
+        }
+    }
+}
